@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.maincontainer{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.items{
+	width:50px;
+	height:50px;
+	color:black;
+	font-size:30px;
+}
+#eg1{
+	background-color:green;
+}
+#eg2{
+	background-color:red;
+}
+#eg3{
+	background-color:blue;
+}
